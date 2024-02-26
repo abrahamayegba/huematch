@@ -1,5 +1,5 @@
 <a href="https://huematch.vercel.app">
-  <img alt="Huematch – An essential tool for Tailwind CSS developers, allowing easy color conversion to and from Tailwind classes." src="/Huematch1.png">
+  <img alt="Huematch – An essential tool for Tailwind CSS developers, allowing easy color conversion to and from Tailwind classes." src="https://raw.githubusercontent.com/abrahamayegba/huematch/main/public/Huematch1.png">
   <h1 align="center">Huematch</h1>
 </a>
 
