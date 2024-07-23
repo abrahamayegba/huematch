@@ -7,7 +7,7 @@ const dmSans = DM_Sans({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "Huematch",
   description:
-    "A go-to tool for effortless color conversion in Tailwind CSS. Convert standard color codes to their Tailwind equivalents, translate Tailwind color classes to HEX, RGB, HSL, and more. Streamline your Tailwind development process with TailwindMate.",
+    "A go-to tool for effortless color conversion in Tailwind CSS. Convert standard color codes to their Tailwind equivalents, translate Tailwind color classes to HEX, RGB, HSL, and more. Streamline your Tailwind development process with Huematch.",
 };
 
 export default function RootLayout({

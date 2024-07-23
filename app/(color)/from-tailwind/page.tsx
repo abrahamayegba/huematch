@@ -3,9 +3,9 @@ import { type Metadata } from "next";
 import React from "react";
 
 export const metadata: Metadata = {
-  title: "Tailwind to Standard Color Conversion - TailwindMate",
+  title: "Tailwind to Standard Color Conversion - Huematch",
   description:
-    "Translate Tailwind color classes to HEX, RGB, RGBA, HSL, and HSLA formats with TailwindMate. Enhance your workflow with our Tailwind to standard color conversion tool.",
+    "Translate Tailwind color classes to HEX, RGB, RGBA, HSL, and HSLA formats with Huematch. Enhance your workflow with our Tailwind to standard color conversion tool.",
 };
 
 export default function Page() {
