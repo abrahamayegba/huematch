@@ -32,19 +32,19 @@ Here are some of the features that Huematch provides out-of-the-box:
 
 Input a color in any format (HEX, RGB, HSL, RGBA, or HSLA) and get the corresponding Tailwind CSS class.
 
-![Tailwind Class Conversion Screenshot](https://raw.githubusercontent.com/JaleelB/tailwindmate/main/public/to-tailwind.png)
+![Tailwind Class Conversion Screenshot](./public/Huematch1.png)
 
 ### Standard CSS Color Code Conversion
 
 Input a Tailwind CSS class and get the corresponding color in any desired format.
 
-![Color Code Conversion Screenshot](https://raw.githubusercontent.com/JaleelB/tailwindmate/main/public/from-tailwind.png)
+![Color Code Conversion Screenshot](./public/huematch3.png)
 
 ### Versatile Color Format Support
 
 Embraces a variety of color formats for maximum compatibility with your existing workflow.
 
-![Versatile Color Format Screenshot](https://raw.githubusercontent.com/JaleelB/tailwindmate/main/public/formats.png)
+![Versatile Color Format Screenshot](./public/huematch5.png)
 
 ## Usage
 
